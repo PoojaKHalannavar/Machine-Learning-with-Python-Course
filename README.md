@@ -1,2 +1,2 @@
 # Machine-Learning-with-Python-Course
-Repository contains Assignments completed in course "Machine Learning with Python"
+Repository contains materials related to the course "Machine Learning with Python"
